@@ -15,5 +15,4 @@ def add_term(term, definition):
 print(lookup_term('Linux'))  
 print(lookup_term('bash'))  
 
-add_term('Docker', 'A platform for developing, shipping, and running applications in containers.')
-print(lookup_term('docker'))
+
